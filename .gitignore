@@ -1,4 +1,4 @@
 ./*/venv/ 		#virt env
 ./*/*.pyc 		#compiled python files
 ./*/*.sqlite3 	#sql data files
-todoapp/.vscode/*
+todoapp/.vscode/settings.json
