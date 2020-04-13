@@ -2,6 +2,8 @@ from base import *
 import os
 
 
+INSTALLED_APPS += ('django_nose')
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
